@@ -1,3 +1,3 @@
 # DualVisionCodec
 
-⭐ If StableCodec is helpful to you, please star this repo. Thanks! 🤗
+⭐ If DualVisionCodec is helpful to you, please star this repo. Thanks! 🤗
